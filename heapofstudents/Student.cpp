@@ -61,6 +61,7 @@ void Student::printStudent(){
     std::cout << "Grad: ";
     expectedGrad->printDate();
     std::cout << "Credit Hours: " << creditHours << std::endl;
+    std::cout << "________________________________________________________________________________" <<std::endl;
 }
 
 
